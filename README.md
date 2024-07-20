@@ -1,4 +1,4 @@
-<img  alt="Bunny Coding" src="https://media1.tenor.com/m/0qFvVzddt8QAAAAC/monday-isit5yet.gif" width='' align="center"/><h2 align="left">Hi! I'm Oscar</h2>
+<img  alt="Bunny Coding" src="https://media1.tenor.com/m/0qFvVzddt8QAAAAC/monday-isit5yet.gif" width='' align="center"/><h2 align="left">Hi! I'm sprck</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Sprinkler -->
 
@@ -50,53 +50,54 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Cmake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)&nbsp;
-![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)&nbsp;
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 ![snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white) &nbsp;
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white) &nbsp;
 
 ### ☁️ Cloud Environments
 
-![AWS](https://img.shields.io/badge/Amazon_Web_Services-222F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_Web_Services-222F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🎛️ Operating Systems
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)&nbsp;
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)&nbsp;
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)&nbsp;
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)&nbsp;
 
 ### 📜 Industry Certifications
 
-![CompTIA A+](https://img.shields.io/badge/CompTIA_A+-b3191e?style=for-the-badge)
-![CompTIA Network+](https://img.shields.io/badge/CompTIA_Network+-b3191e?style=for-the-badge)
-![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-b3191e?style=for-the-badge)
-![CompTIA Cloud+](https://img.shields.io/badge/CompTIA_Cloud+-b3191e?style=for-the-badge)
-![CompTIA Project+](https://img.shields.io/badge/CompTIA_Project+-b3191e?style=for-the-badge)
-![CompTIA Secure Cloud Professional](https://img.shields.io/badge/CompTIA_Secure_Cloud_Professional-b3191e?style=for-the-badge)
-![CompTIA Secure Infrastructure Specialist+](https://img.shields.io/badge/CompTIA_Secure_Infrastructure_Specialist-b3191e?style=for-the-badge)
-![CompTIA Cloud Admin Professional+](https://img.shields.io/badge/CompTIA_Cloud_Admin_Professional-b3191e?style=for-the-badge)
-![CompTIA IT Operations Specialist+](https://img.shields.io/badge/CompTIA_IT_Operations_Specialist-b3191e?style=for-the-badge)
-![ITIL4](https://img.shields.io/badge/Axelos_ITIL4-8e63e5?style=for-the-badge)
-![Google Python Automation](https://img.shields.io/badge/Google_Python_Automation-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
-![Google Data Analytics](https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
-![Google Project Management](https://img.shields.io/badge/Google_Project_Management-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
-![Google IT Support](https://img.shields.io/badge/Google_IT_Support-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
-![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-222F3E?style=for-the-badge)
-![LPI Linux Essentials](https://img.shields.io/badge/LPI_Linux_Essentials-ffc017?style=for-the-badge)
+![CompTIA A+](https://img.shields.io/badge/CompTIA_A+-b3191e?style=for-the-badge)&nbsp;
+![CompTIA Network+](https://img.shields.io/badge/CompTIA_Network+-b3191e?style=for-the-badge)&nbsp;
+![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-b3191e?style=for-the-badge)&nbsp;
+![CompTIA Cloud+](https://img.shields.io/badge/CompTIA_Cloud+-b3191e?style=for-the-badge)&nbsp;
+![CompTIA Project+](https://img.shields.io/badge/CompTIA_Project+-b3191e?style=for-the-badge)&nbsp;
+![CompTIA Secure Cloud Professional](https://img.shields.io/badge/CompTIA_Secure_Cloud_Professional-b3191e?style=for-the-badge)&nbsp;
+![CompTIA Secure Infrastructure Specialist+](https://img.shields.io/badge/CompTIA_Secure_Infrastructure_Specialist-b3191e?style=for-the-badge)&nbsp;
+![CompTIA Cloud Admin Professional+](https://img.shields.io/badge/CompTIA_Cloud_Admin_Professional-b3191e?style=for-the-badge)&nbsp;
+![CompTIA IT Operations Specialist+](https://img.shields.io/badge/CompTIA_IT_Operations_Specialist-b3191e?style=for-the-badge)&nbsp;
+![ITIL4](https://img.shields.io/badge/Axelos_ITIL4-8e63e5?style=for-the-badge)&nbsp;
+![Google Python Automation](https://img.shields.io/badge/Google_Python_Automation-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)&nbsp;
+![Google Data Analytics](https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)&nbsp;
+![Google Project Management](https://img.shields.io/badge/Google_Project_Management-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)&nbsp;
+![Google IT Support](https://img.shields.io/badge/Google_IT_Support-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)&nbsp;
+![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-222F3E?style=for-the-badge)&nbsp;
+![LPI Linux Essentials](https://img.shields.io/badge/LPI_Linux_Essentials-ffc017?style=for-the-badge)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/sprackles">
-    <img height="180em" src="https://github-readme-stats-psi-ten-22.vercel.app/api?username=sprackles&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats-psi-ten-22.vercel.app/api?username=sprackles&theme=radical&layout=compact"/>
   </a>
   <a href="https://github.com/sprackles">
     <img height="180em" src="https://github-readme-stats-psi-ten-22.vercel.app/api/top-langs/?username=sprackles&layout=compact&langs_count=8&theme=radical"/>
@@ -104,7 +105,7 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sprackles&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sprackles&theme=radical"/>
 </p>
 
 ### 🎖 &nbsp;My Badges
