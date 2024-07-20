@@ -1,4 +1,4 @@
-<img  alt="Bunny Coding" src="https://media1.tenor.com/m/0qFvVzddt8QAAAAC/monday-isit5yet.gif" width='' align="center"/><h2 align="left">Hi! I'm Oscar</h2>
+<img  alt="Bunny Coding" src="https://media1.tenor.com/m/0qFvVzddt8QAAAAC/monday-isit5yet.gif" width='' align="center"/><h2 align="left">Hi! I'm sprck</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Sprinkler -->
 
@@ -96,7 +96,7 @@
 
 <p align="center">
   <a href="https://github.com/sprackles">
-    <img height="180em" src="https://github-readme-stats-psi-ten-22.vercel.app/api?username=sprackles&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats-psi-ten-22.vercel.app/api?username=sprackles&theme=radical&layout=compact"/>
   </a>
   <a href="https://github.com/sprackles">
     <img height="180em" src="https://github-readme-stats-psi-ten-22.vercel.app/api/top-langs/?username=sprackles&layout=compact&langs_count=8&theme=radical"/>
@@ -104,7 +104,7 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sprackles&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sprackles&theme=radical"/>
 </p>
 
 ### 🎖 &nbsp;My Badges
