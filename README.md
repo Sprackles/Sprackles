@@ -92,6 +92,7 @@
 ![Google IT Support](https://img.shields.io/badge/Google_IT_Support-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)&nbsp;
 ![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-222F3E?style=for-the-badge)&nbsp;
 ![LPI Linux Essentials](https://img.shields.io/badge/LPI_Linux_Essentials-ffc017?style=for-the-badge)&nbsp;
+![Meta Front-End Developer](https://img.shields.io/badge/Meta_Front_End_Developer-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
